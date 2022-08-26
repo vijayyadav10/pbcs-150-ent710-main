@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "pbcs-150-ent710-main",
+    "version": "0.0.1",
+    "description": "pbcs-150-ent710-main description",
+    "type": "bundle"
+}
