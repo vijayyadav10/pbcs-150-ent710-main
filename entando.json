@@ -6,6 +6,9 @@
             "healthCheckPath": "/actuator/health",
             "dbms": "none",
             "ingressPath": "/entando-template-api/api",
+            "commands": {
+                "run": "mvn -Dspring-boot.run.arguments=\"--server.port=8081\" spring-boot:run"
+            },
             "roles": [
                 "et-first-role",
                 "et-second-role"
